@@ -113,10 +113,10 @@ Sales-Dashboard/
 
 ## 👨‍💻 Author
 
-**Your Name**
 
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourprofile
+
+- GitHub: https://github.com/BabluYadav25
+- LinkedIn: https://linkedin.com/in/BabluYadav
 
 ---
 
