@@ -9,6 +9,31 @@ A professional and interactive **Sales Dashboard** built using **Microsoft Power
 ![Sales Dashboard](dashboard.png)
 
 ---
+## 📂 Dataset
+
+The project uses **Sales_data.csv** containing sales transaction records.
+
+Main columns include:
+- Order ID
+- Order Date
+- Customer Type
+- Region
+- Category
+- Sub-Category
+- Sales
+- Profit
+- Quantity
+
+  ---
+
+  ## 🚀 How to Use
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/babluyadav25/Sales-Dashboard-PowerBI.git
+
+---
 
 ## 🚀 Features
 
@@ -60,12 +85,12 @@ A professional and interactive **Sales Dashboard** built using **Microsoft Power
 ## 📂 Project Structure
 
 ```
-Sales-Dashboard/
-│
-├── Sales Dashboard.pbix
-├── Dataset.xlsx
-├── dashboard.png
-└── README.md
+Sales-Dashboard-PowerBI/
+│── Sales Dashboard.pbix
+│── Sales_data.csv
+│── dashboard.png
+│── README.md
+
 ```
 
 ---
@@ -113,6 +138,4 @@ If you found this project useful, please consider giving it a ⭐ on GitHub.
 
 ---
 
-## 📜 License
 
-This project is licensed under the MIT License.
