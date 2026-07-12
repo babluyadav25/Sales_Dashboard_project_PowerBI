@@ -6,8 +6,6 @@ A professional and interactive **Sales Dashboard** built using **Microsoft Power
 
 ## 📌 Dashboard Preview
 
-> Add your dashboard screenshot here.
-
 ![Sales Dashboard](dashboard.png)
 
 ---
@@ -102,18 +100,7 @@ Sales-Dashboard/
 4. Explore the interactive dashboard.
 
 ---
-
-## 📷 Screenshot
-
-> Replace this image with your dashboard screenshot.
-
-![Dashboard Preview](dashboard.png)
-
----
-
 ## 👨‍💻 Author
-
-
 
 - GitHub: https://github.com/babluyadav25
 - LinkedIn: https://linkedin.com/in/BabluYadav
