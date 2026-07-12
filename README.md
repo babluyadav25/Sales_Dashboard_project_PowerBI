@@ -103,7 +103,7 @@ Sales-Dashboard/
 ## 👨‍💻 Author
 
 - GitHub: https://github.com/babluyadav25
-- LinkedIn: https://linkedin.com/in/BabluYadav
+- LinkedIn: https://linkedin.com/in/Bablu-Yadav
 
 ---
 
