@@ -84,14 +84,12 @@ git clone https://github.com/babluyadav25/Sales-Dashboard-PowerBI.git
 
 ## 📂 Project Structure
 
-```
+
 Sales-Dashboard-PowerBI/
 │── Sales Dashboard.pbix
 │── Sales_data.csv
 │── dashboard.png
 │── README.md
-
-```
 
 ---
 
